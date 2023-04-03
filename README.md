@@ -1,4 +1,4 @@
-# macos_ui
+# macos_ui that works with the flutter master channel
 
 Flutter widgets and themes implementing the current macOS design language.
 
